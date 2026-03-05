@@ -2,7 +2,7 @@
 
 | Source Code | Live Demo |
 | :--- | :--- |
-| [📂 View Code](https://github.com/YOUR-USERNAME/tutor-website) | [🚀 View Live Site](https://YOUR-USERNAME.github.io/tutor-website) |
+| [📂 View Code](https://github.com/rakibul-efty20/tutor-website-css) | [🚀 View Live Site](https://tutor-website-css.vercel.app/) |
 
 ---
 
